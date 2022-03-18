@@ -14,6 +14,6 @@ https://pwa-react-chatapp.netlify.app/
 
 ## Some screenshots
 
-![This is an img](screenshot2.PNG)
+![Login img](login.PNG)
 
 ![This is an img](screenshot.PNG)
