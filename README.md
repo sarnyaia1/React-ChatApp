@@ -10,10 +10,10 @@ password: SecretPassword
 
 ## Link:
 
-https://react-chat-sarnyaia.netlify.app/
+https://pwa-react-chatapp.netlify.app/
 
 ## Some screenshots
 
-![This is an img](screenshot.PNG)
+![This is an img](screenshot2.PNG)
 
 ![This is an img](screenshot.PNG)
